@@ -1,0 +1,13 @@
+E:\VSProject\TestApp\MyApp.HelloWorld\bin\Debug\netcoreapp3.1\MyApp.HelloWorld.exe
+E:\VSProject\TestApp\MyApp.HelloWorld\bin\Debug\netcoreapp3.1\MyApp.HelloWorld.deps.json
+E:\VSProject\TestApp\MyApp.HelloWorld\bin\Debug\netcoreapp3.1\MyApp.HelloWorld.runtimeconfig.json
+E:\VSProject\TestApp\MyApp.HelloWorld\bin\Debug\netcoreapp3.1\MyApp.HelloWorld.runtimeconfig.dev.json
+E:\VSProject\TestApp\MyApp.HelloWorld\bin\Debug\netcoreapp3.1\MyApp.HelloWorld.dll
+E:\VSProject\TestApp\MyApp.HelloWorld\bin\Debug\netcoreapp3.1\MyApp.HelloWorld.pdb
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.csprojAssemblyReference.cache
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.AssemblyInfoInputs.cache
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.AssemblyInfo.cs
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.csproj.CoreCompileInputs.cache
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.dll
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.pdb
+E:\VSProject\TestApp\MyApp.HelloWorld\obj\Debug\netcoreapp3.1\MyApp.HelloWorld.genruntimeconfig.cache
